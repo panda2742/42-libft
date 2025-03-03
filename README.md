@@ -1,6 +1,6 @@
 # libft
 
-This is my first C library. It includes functions to manage strings, memory, linked lists, and some other useful stuff.
+A basic C library that includes bunch of home-made functions from the standard lib. Used for our different projects at 42 School.
 
 > Disclaimer: this is not the libft version I use for my other 42 projects. The current and maintained version is [this one](https://github.com/elouannh/libft).
 
